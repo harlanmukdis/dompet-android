@@ -1,7 +1,9 @@
-package invent.dompetandroid;
+package invent.dompetandroid.view;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import invent.dompetandroid.R;
 
 public class MainActivity extends AppCompatActivity {
 
